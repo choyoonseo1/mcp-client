@@ -21,4 +21,4 @@ jobs:
             "pull_request_title": "${{ github.event.pull_request.title }}",
             "pull_request_author": "${{ github.event.pull_request.user.login }}"
           }' \
-          "http://n8n.choyoonseo.com/webhook-test/eabf283d-4b39-4e20-a9a1-edc7db81daf7/webhook"
+          "http://n8n.choyoonseo.com/webhook/eabf283d-4b39-4e20-a9a1-edc7db81daf7/webhook"
